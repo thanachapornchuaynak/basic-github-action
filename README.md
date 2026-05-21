@@ -1,11 +1,11 @@
- # basic-github-action
+# basic-github-action
 
 Lab repo for **Lab 3 — GitHub Actions** and **Lab 3b — Secrets & Environment Variables**
 (see `resource/github-action-lab-guide.pdf`).
 
 Minimal FastAPI app + Dockerfile + GitHub Actions workflows demonstrating CI build, test, and push to Docker Hub.
 
-## Structure
+## Structure 
 
 ```
 .
